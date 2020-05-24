@@ -8,7 +8,8 @@ They are listed below
 2. Percent Population Accessing Electricity data:
     API_EG.ELC.ACCS.ZS_DS2_en_excel_v2_991137
 3. Electricity Per Capita data: 
-    Eth_Egy_Sud_electric and 
+    Eth_Egy_Sud_electric 
+    and
     EthiopiaVsEgyptElectricPowerConsumption
     
     
